@@ -1,4 +1,4 @@
-## this project demonstrates the creation of a comprehensive credit card dashboard using Power BI. It covers data extraction from a SQL database, data processing and DAX queries, dashboard design, and sharing insights. The project aims to provide real-time insights into credit card operations, enabling stakeholders to monitor and analyze performance efficiently.  
+## This project demonstrates the creation of a comprehensive credit card dashboard using Power BI. It covers data extraction from a SQL database, data processing and DAX queries, dashboard design, and sharing insights. The project aims to provide real-time insights into credit card operations, enabling stakeholders to monitor and analyze performance efficiently.  
 
 
 - Devlope Comprehensive credit card weekly dashborad provides real time weekly insight  insights 
